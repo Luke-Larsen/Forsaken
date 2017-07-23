@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.cpp(12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+main.cpp(178): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+  Generating code
+  All 182 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Forsaken Server.vcxproj -> D:\Development\Dev c++\Prototypes\Forsaken Server\x64\Release\Forsaken Server.exe
+  Forsaken Server.vcxproj -> D:\Development\Dev c++\Prototypes\Forsaken Server\x64\Release\Forsaken Server.pdb (Full PDB)
